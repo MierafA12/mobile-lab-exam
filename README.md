@@ -47,12 +47,12 @@ Add the following images under `docs/screenshots/` and the README will render th
 		<td align="center"><img src="docs/screenshots/notes.png" alt="Notes screen" width="220" /></td>
 	</tr>
 	<tr>
-		<td align="center"><img src="docs/screenshots/add-note.png" alt="Add note screen" width="220" /></td>
-		<td align="center"><img src="docs/screenshots/note-detail.png" alt="Note detail screen" width="220" /></td>
+		<td align="center"><img src="docs/screenshots/add-note.png" alt="Add note screen" width="200" /></td>
+		<td align="center"><img src="docs/screenshots/notedetail.png" alt="Note detail screen" width="200" /></td>
 	</tr>
 	<tr>
-		<td align="center"><img src="docs/screenshots/locked-notes.png" alt="Locked notes screen" width="220" /></td>
-		<td align="center"><img src="docs/screenshots/quote.png" alt="Quote screen" width="220" /></td>
+		<td align="center"><img src="docs/screenshots/locked.png" alt="Locked notes screen" width="200" /></td>
+		<td align="center"><img src="docs/screenshots/quote.png" alt="Quote screen" width="200" /></td>
 	</tr>
 </table>
 
