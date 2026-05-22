@@ -41,14 +41,22 @@ Add the following images under `docs/screenshots/` and the README will render th
 
 ### Preview
 
-| Screen | Screenshot |
-| --- | --- |
-| Splash | ![Splash screen](docs/screenshots/splash.png) |
-| Notes | ![Notes screen](docs/screenshots/notes.png) |
-| Add Note | ![Add note screen](docs/screenshots/add-note.png) |
-| Note Detail | ![Note detail screen](docs/screenshots/note-detail.png) |
-| Locked Notes | ![Locked notes screen](docs/screenshots/locked-notes.png) |
-| Quote | ![Quote screen](docs/screenshots/quote.png) |
+<table>
+	<tr>
+		<td align="center"><img src="docs/screenshots/splash.png" alt="Splash screen" width="220" /></td>
+		<td align="center"><img src="docs/screenshots/notes.png" alt="Notes screen" width="220" /></td>
+	</tr>
+	<tr>
+		<td align="center"><img src="docs/screenshots/add-note.png" alt="Add note screen" width="220" /></td>
+		<td align="center"><img src="docs/screenshots/note-detail.png" alt="Note detail screen" width="220" /></td>
+	</tr>
+	<tr>
+		<td align="center"><img src="docs/screenshots/locked-notes.png" alt="Locked notes screen" width="220" /></td>
+		<td align="center"><img src="docs/screenshots/quote.png" alt="Quote screen" width="220" /></td>
+	</tr>
+</table>
+
+If you want the screenshots even smaller or larger, change the `width="220"` value above.
 
 ## Project Structure
 
