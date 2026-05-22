@@ -1,4 +1,4 @@
-# MobileLabExam
+# yene notes 
 
 yene notes  is a Jetpack Compose Android note app with local Room storage, locked/private notes, a search experience, and a daily quote screen powered by Retrofit.
 
@@ -62,3 +62,12 @@ Add the following images under `docs/screenshots/` and the README will render th
 - The app uses `android.permission.INTERNET` for the quote API.
 - Locked notes rely on Android's built-in device credential screen.
 - The quote API includes a fallback quote list so the app still works if the network request fails.
+
+contrubiters 
+```
+Mieraf Abebe,
+Melat Worku,
+bethel zewdu.
+bethelihem mulugeta,
+tsedeniya yeshibelay
+```
